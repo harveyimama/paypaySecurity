@@ -1,0 +1,1 @@
+package com.techland.paypay.security.factories;import com.techland.paypay.contracts.PayPayState;public class StateFactory { public PayPayState getState(){ return null;}} 
